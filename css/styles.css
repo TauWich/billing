@@ -1,0 +1,20 @@
+body {
+    min-height: 100vh;
+}
+
+main {
+    height: 100vh;
+    max-height: 100vh;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+nav{
+    height: 100vh;
+    max-height: 100vh;
+}
+
+nav > div{
+    height: 100vh;
+    max-height: 100vh;
+}
