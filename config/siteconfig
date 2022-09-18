@@ -1,0 +1,11 @@
+[prod]
+servername = md104.wedos.net
+username = w266479_ojetamazda
+password = wEb4wedos.cz
+dbname = d266479_ojetamazda
+
+[test]
+servername = 127.0.0.1
+username = root
+password = maniac
+dbname = billing
